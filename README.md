@@ -1,2 +1,0 @@
-# sentimentanalysis
-Medical Intelligence Summit
